@@ -48,5 +48,5 @@ GROUP BY Contract;
 
 ## 👨‍💻 Author
 **MUHAMMAD HASSAN** – MSc Data Analytics  
-[LinkedIn Profile](#) | [GitHub Profile](#) | [muhammad2297hassan@gmail.com](#)
+ [muhammad2297hassan@gmail.com](#)
 
