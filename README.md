@@ -33,3 +33,20 @@ SELECT
 FROM customers
 WHERE Churn = 'Yes'
 GROUP BY Contract;
+
+
+## 📦 How to Run This Project
+1. Open [Google Colab] (https://colab.research.google.com/drive/148lU1cs5WCnFDgAl2Rtcn0mZNkzxQWKD?usp=drive_link))
+2. Upload `WA_Fn-UseC_-Telco-Customer-Churn.csv`
+3. Run the provided `.ipynb` notebook
+4. View insights and run additional SQL queries using `pd.read_sql_query(...)`
+
+## 🧾 Business Use Case
+- Helps subscription-based companies understand what factors contribute to customer churn.
+- Supports customer retention strategies by identifying at-risk segments.
+- Can be extended to include churn prediction models using machine learning.
+
+## 👨‍💻 Author
+**MUHAMMAD HASSAN** – MSc Data Analytics  
+[LinkedIn Profile](#) | [GitHub Profile](#) | [muhammad2297hassan@gmail.com](#)
+
